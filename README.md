@@ -14,4 +14,5 @@
 
 ### Linkedin: https://www.linkedin.com/in/luka-ojeavarvasini/
 
-### Si quieres usarlo, solo descarga el repositorio y cambia las etiquetas <h1>, <p> y carga tu imagen
+### Si quieres usarlo, solo descarga el repositorio, cambia las etiquetas y carga tu imagen
+
